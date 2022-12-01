@@ -1,0 +1,30 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note
+{
+    font-size: 18px;
+    color: rgb(200, 181, 40);
+    font-family: Verdana;
+    font-weight: bold;
+}
+
+body{
+    background-size: covers;
+}
+canvas
+{
+border: 5px solid white;
+border-radius: 20px;
+box-shadow: 5px 5px 5px purple;
+}
+.div_song{
+    font-size: 25px;
+    float: center;
+    color:rgba(212, 21, 21, 0.894);
+    font-weight: bold;
+    background-color: aqua;
+}
